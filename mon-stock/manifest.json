@@ -1,0 +1,22 @@
+{
+    "name": "Mon Stock",
+    "short_name": "Mon Stock",
+    "description": "Application personnelle de gestion de stock",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f4f5f2",
+    "theme_color": "#244936",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
